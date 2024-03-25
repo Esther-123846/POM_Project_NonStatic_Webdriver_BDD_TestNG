@@ -1,0 +1,4 @@
+$(document).ready(function() {
+CucumberHTML.timelineItems.pushArray([{"id":"e0445c26-e853-45d7-89f2-23c78e9faa48","feature":"HomePage Feature","scenario":"Verify FileUpload Page","start":1711369979717,"group":17,"content":"","tags":"","end":1711369998079,"className":"passed"},{"id":"d3186042-331f-4489-84f7-6fecb3723bee","feature":"HomePage Feature","scenario":"Verify PopUps Page","start":1711369979717,"group":16,"content":"","tags":"","end":1711369998111,"className":"passed"}]);
+CucumberHTML.timelineGroups.pushArray([{"id":16,"content":"Thread[TestNG-PoolService-0,5,main]"},{"id":17,"content":"Thread[TestNG-PoolService-1,5,main]"}]);
+});
